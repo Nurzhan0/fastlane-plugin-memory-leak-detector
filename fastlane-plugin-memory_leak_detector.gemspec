@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'nurzhaan0@gmial.com'
 
   spec.summary       = 'Memory leak detector'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-memory_leak_detector"
+  spec.homepage      = "https://github.com/Nurzhan0/fastlane-plugin-memory-leak-detector"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
